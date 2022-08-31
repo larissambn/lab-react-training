@@ -10,5 +10,3 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
-ReactDOM.createRoot(root).render(page);
